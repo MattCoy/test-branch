@@ -6,7 +6,9 @@
         "symfony/twig-bridge": "~3.0",
         "symfony/asset": "~3.0",
         "silex/web-profiler": "^2.0",
-        "sorien/silex-dbal-profiler": "~2.0"
+        "sorien/silex-dbal-profiler": "~2.0",
+        "symfony/security": "~3.0",
+        "symfony/security-bundle": "3.2"
     },
     "autoload": {
         "psr-4": {"WF3\\": "src"}
